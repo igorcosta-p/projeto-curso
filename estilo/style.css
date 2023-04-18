@@ -13,4 +13,5 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: rgba(0, 0, 0, 0.432);
+    border-radius: 8px;
 }
